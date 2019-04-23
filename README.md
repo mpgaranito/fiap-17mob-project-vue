@@ -23,8 +23,14 @@ Para que o objetivo do projeto seja atingido é necessário que os seguinte requ
 12. A listagem dos repositórios deve conter o nome do repositório, quantidade de estrelas e link para o mesmo;
 13. A PWA deve conter ícones, splash screen e a tela de login deve ser exibida ao usuário com um aviso caso o mesmo esteja offline.
 
+## Data limite de entrega
+03/06/2019
+
+
+## Data limite de correção dos trabalhos
+16/06/2019
+
 
 ### Links úteis
-1 - Instalando vue-cli: https://github.com/vuejs/vue-cli/issues/3804
-
-2 - Bootstrap-vue: https://bootstrap-vue.js.org/docs
+1. Instalando vue-cli: https://github.com/vuejs/vue-cli/issues/3804
+2. Bootstrap-vue: https://bootstrap-vue.js.org/docs

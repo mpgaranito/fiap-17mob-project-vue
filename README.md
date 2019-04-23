@@ -22,3 +22,7 @@ Para que o objetivo do projeto seja atingido é necessário que os seguinte requ
 11. O aplicativo deve consumir a API Rest do GitHub e listar todos os repositórios de um usuário a partir da digitação do nome desse usuário em um campo da tela inicial do aplicativo;
 12. A listagem dos repositórios deve conter o nome do repositório, quantidade de estrelas e link para o mesmo;
 13. A PWA deve conter ícones, splash screen e a tela de login deve ser exibida ao usuário com um aviso caso o mesmo esteja offline.
+
+
+### Links úteis
+1 - Instalando vue-cli: https://github.com/vuejs/vue-cli/issues/3804

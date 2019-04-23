@@ -26,4 +26,5 @@ Para que o objetivo do projeto seja atingido é necessário que os seguinte requ
 
 ### Links úteis
 1 - Instalando vue-cli: https://github.com/vuejs/vue-cli/issues/3804
+
 2 - Bootstrap-vue: https://bootstrap-vue.js.org/docs

@@ -34,8 +34,10 @@ let router = new Router({
     {
       path: "/about",
       name: "about",
-
-      component: () => import("./views/About.vue")
+      component: () => import("./views/About.vue"),
+      meta: {
+        requiresAuth: true
+      }
     },
     {
       path: "/user/:id",
